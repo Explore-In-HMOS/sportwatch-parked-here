@@ -25,9 +25,9 @@ A parking location tracker with visual navigation for Huawei LiteOS wearable dev
 
 ## Stack
 
-- **Platform:** Huawei LiteOS (Lite Wearable)
+- **Platform:** Huawei LiteOS (SportWatch)
 - **Language:** Javascript
-- **Framework:** Huawei Lite Wearable JS Framework
+- **Framework:** Huawei SportWatch JS Framework
 - **SDK Version:** 5.0.0(12) - 5.1.0(18)
 - **Canvas API:** CanvasRenderingContext2D (with LiteOS limitations)
 - **APIs Used:**
